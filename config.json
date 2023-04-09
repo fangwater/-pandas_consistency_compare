@@ -1,0 +1,8 @@
+{
+    "format":"parquet",
+    "path_of_cpp":"res1",
+    "path_of_python":"res2",
+    "float_acc":3,
+    "nan_handling":"ignore",
+    "error_compute":"MSE"
+}
